@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.first{
+    height: 90vh;
+    background-color: #F6F193;
+}
+.first>main{
+    color: #5ba84e;
+    font-family: "Vast Shadow";
+    text-align: center;
+    padding: 30px;
+}
+.title{
+    font-size: 2rem;
+}
+span{
+    font-family: "Zilla Slab Highlight";
+}
+main>img{
+    padding-top: 95px;
+}
+.secound{
+    background-color: #F2C18D;
+    height: 75vh;
+    text-align: center;
+    font-family:"Maiden Orange";
+}
+.secound > h2,p{
+    color: #5ba84e;
+    font-size:xx-large
+}
+.secound> img{
+    margin-top:10px ;
+    border-radius: 50%;
+    border: solid 3px rgb(97, 170, 97);
+    height: 300px;
+    
+}
+.skills{
+    height: 75vh;
+    background-color: #C5EBAA;
+    text-align: center;
+    font-size: xx-large;
+    color:#FF8080;
+    
+}
+.skills img{ 
+    border-radius: 106px;
+    margin-left: 170px;
+    float: left;
+    height: 439px;
+}
+.skills h3{
+    margin-top: 130px;
+}
+.contact{
+    height: 70vh;
+    text-align: center;
+    background-color: #FFCF96;
+    font-size: xx-large;
+    font-family: "Maiden Orange";
+}
+.contact>h2{
+    font-size: 3rem;
+    padding: 60px;
+}
+.contact>button{
+    background-color: #5ba84e;
+    padding: 20px;
+    border-radius:20px ;
+    border: solid 2px burlywood;
+    font-family:  Tahoma, sans-serif;
+    cursor: pointer;
+}
+.foot{
+    height: 40vh;
+    background-color: #FF8080;
+}
+.foot>ul{
+    margin: 0px;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    padding-top: 5%;
+}
+a{
+    font-size: 3rem;
+    color: #5f53a5;
+    text-decoration: none;
+}
+.foot>p{
+    text-align: center;
+    font-size: 1.5rem;
+    color: #5f53a5;
+    font-family: fantasy;
+    padding-top: 70px;
+}
